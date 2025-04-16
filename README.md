@@ -75,24 +75,24 @@ streamlit run dashboard.py
 
 ### 📋 Dashboard Overview
 
-![Dashboard](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.15.47.png)
+![Dashboard](images/Screenshot 2025-04-16 at 06.15.47.png)
 
 ### 🏷️ Category Pie Chart
 
-![Categories](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.16.03.png)
+![Categories](images/Screenshot 2025-04-16 at 06.16.03.png)
 
 ### 💸 Savings vs Spending Trend
 
-![SavingsVsSpending](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.16.22.png)
+![SavingsVsSpending](images/Screenshot 2025-04-16 at 06.16.22.png)
 
-![Categories](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.17.19.png)
+![Categories](images/Screenshot 2025-04-16 at 06.17.19.png)
 
 
 ---
 
 ## 🌐 Deployment of this Application
 
-Deployed on [Streamlit Cloud](https://denismoneyapp.streamlit.app/ target="_blank") Click the link to view it. Set the main file to `dashboard.py` and configure `YNAB_TOKEN` in Secrets.
+Deployed on [🌐 Open the Live App](https://denismoneyapp.streamlit.app/[🌐 Open the Live App](https://denismoneyapp.streamlit.app/){:target="_blank"}) Click the link to view it. Set the main file to `dashboard.py` and configure `YNAB_TOKEN` in Secrets.
 
 ---
 
