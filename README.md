@@ -1,4 +1,3 @@
-
 # 📊 YNAB Mobile Dashboard
 
 A mobile-optimized interactive budget dashboard powered by the YNAB (You Need A Budget) API, built using Python, Streamlit, and Plotly. This dashboard helps visualize your financial health through real-time budget insights, category breakdowns, and savings vs spending trends.
@@ -76,15 +75,18 @@ streamlit run dashboard.py
 
 ### 📋 Dashboard Overview
 
-![Dashboard](https://chatgpt.com/c/images/dashboard_overview.png)
+![Dashboard](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.15.47.png)
 
 ### 🏷️ Category Pie Chart
 
-![Categories](https://chatgpt.com/c/images/top_categories.png)
+![Categories](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.16.03.png)
 
 ### 💸 Savings vs Spending Trend
 
-![SavingsVsSpending](https://chatgpt.com/c/images/savings_vs_spending.png)
+![SavingsVsSpending](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.16.22.png)
+
+![Categories](/Users/denis/Documents/Projects/YNAB_Mobile_Dashboard_Plan/images/Screenshot 2025-04-16 at 06.17.19.png)
+
 
 ---
 
