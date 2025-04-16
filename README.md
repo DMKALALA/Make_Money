@@ -1,3 +1,4 @@
+
 # 📊 YNAB Mobile Dashboard
 
 A mobile-optimized interactive budget dashboard powered by the YNAB (You Need A Budget) API, built using Python, Streamlit, and Plotly. This dashboard helps visualize your financial health through real-time budget insights, category breakdowns, and savings vs spending trends.
@@ -6,11 +7,11 @@ A mobile-optimized interactive budget dashboard powered by the YNAB (You Need A 
 
 ## 🚀 Features
 
-* 📆  **Month Selector** : Choose from available budget months
-* 💰  **Summary Metrics** :
+* 📆 **Month Selector** : Choose from available budget months
+* 💰 **Summary Metrics** :
   * To Be Budgeted
   * Inflow & Outflow
-* 📊  **Visualizations** :
+* 📊 **Visualizations** :
   * Cash Flow Bar Chart
   * Top Spending Categories Pie Chart
   * Savings vs Spending Line Chart
@@ -24,46 +25,45 @@ A mobile-optimized interactive budget dashboard powered by the YNAB (You Need A 
 
 ## 🧰 Tech Stack
 
-* [Streamlit](https://streamlit.io/)
-* [Plotly Express](https://plotly.com/python/plotly-express/)
-* [YNAB API](https://api.youneedabudget.com/)
-* [Python 3.12+](https://www.python.org/)
+* Streamlit
+* Plotly Express
+* YNAB API
+* Python 3.12+
 
 ---
 
 ## 🔒 Setup Instructions
 
-### 1. Clone the Repo
+1. **Clone the Repo**
 
 ```bash
 git clone https://github.com/yourusername/ynab-dashboard.git
 cd ynab-dashboard
 ```
 
-### 2. Create Virtual Environment
+2. **Create Virtual Environment**
 
 ```bash
 python -m venv env
 source env/bin/activate  # or .\env\Scripts\activate on Windows
 ```
 
-### 3. Install Requirements
+3. **Install Requirements**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Set Up Environment Variables
+4. **Set Up Environment Variables**
+   Create a `.env` file with:
 
-Create a `.env` file with:
-
-```
+```dotenv
 YNAB_TOKEN=your_ynab_personal_access_token_here
 ```
 
-> 🔐 If deploying to Streamlit Cloud, use the "Secrets" tab instead.
+🔐 *If deploying to Streamlit Cloud, use the "Secrets" tab instead.*
 
-### 5. Run Locally
+5. **Run Locally**
 
 ```bash
 streamlit run dashboard.py
@@ -75,24 +75,21 @@ streamlit run dashboard.py
 
 ### 📋 Dashboard Overview
 
-![Dashboard](images/Screenshot 2025-04-16 at 06.15.47.png)
+![1744800163293](image/README/1744800163293.png)🏷️ Category Pie Chart
 
-### 🏷️ Category Pie Chart
+![1744800202825](image/README/1744800202825.png)💸 Savings vs Spending Trend
 
-![Categories](images/Screenshot 2025-04-16 at 06.16.03.png)
+![1744800219759](image/README/1744800219759.png)🗂️ Category Breakdown
 
-### 💸 Savings vs Spending Trend
-
-![SavingsVsSpending](images/Screenshot 2025-04-16 at 06.16.22.png)
-
-![Categories](images/Screenshot 2025-04-16 at 06.17.19.png)
-
+![1744800234109](image/README/1744800234109.png)![Categories](https://chatgpt.com/c/images/Screenshot%202025-04-16%20at%2006.17.19.png)
 
 ---
 
 ## 🌐 Deployment of this Application
 
-Deployed on [🌐 Open the Live App](https://denismoneyapp.streamlit.app/[🌐 Open the Live App](https://denismoneyapp.streamlit.app/){:target="_blank"}) Click the link to view it. Set the main file to `dashboard.py` and configure `YNAB_TOKEN` in Secrets.
+Deployed on [🌐 **Open the Live App**](https://denismoneyapp.streamlit.app/)
+
+➡️ *Click the link to view it.* Set the main file to `dashboard.py` and configure `YNAB_TOKEN` in Secrets.
 
 ---
 
@@ -104,10 +101,16 @@ Pull requests, suggestions, and feedback are welcome! Let's build smarter financ
 
 ## 🧠 Credits
 
-Created with ❤️ by Denis Kalala, powered by real-time insights from YNAB.
+Created with ❤️ by  **Denis Kalala** , powered by real-time insights from  **YNAB** .
 
 ---
 
 ## 📄 License
 
-[MIT](https://chatgpt.com/c/LICENSE)
+MIT License
+
+---
+
+### About
+
+Time to change my habits 💡
