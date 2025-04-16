@@ -88,9 +88,9 @@ streamlit run dashboard.py
 
 ---
 
-## 🌐 Deployment
+## 🌐 Deployment of this Application
 
-Deployed on [Streamlit Cloud](https://denismoneyapp.streamlit.app/). Set the main file to `dashboard.py` and configure `YNAB_TOKEN` in Secrets.
+Deployed on [Streamlit Cloud](https://denismoneyapp.streamlit.app/ target="_blank") Click the link to view it. Set the main file to `dashboard.py` and configure `YNAB_TOKEN` in Secrets.
 
 ---
 
